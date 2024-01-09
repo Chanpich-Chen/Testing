@@ -4,9 +4,9 @@ import backgroundImg from "../../assets/images/background.jpg";
 
 export default function LogInPage() {
   return (
-    <div className="bg-newBlue min-h-screen w-full relative bg-opacity-75 ">
+    <div className="bg-newBlue min-h-screen w-full relative bg-opacity-80 ">
      
-     <img src={backgroundImg} className="absolute min-h-screen w-full mix-blend-overlay   " alt="" />
+     <img src={backgroundImg} className="absolute h-full w-full mix-blend-overlay   " alt="" />
 
       
       {/* <div className="grid grid-cols-1 h-screen text-center ">
